@@ -9,6 +9,76 @@
       "images": [
         "wallpapers/hit_1.jpg"
       ]
+    },
+    {
+      "id": "nju",
+      "name": "南京大学",
+      "motto": "诚朴雄伟，励学敦行",
+      "description": "教育部直属重点大学，C9联盟成员，位于江苏南京",
+      "established": "1902",
+      "images": [
+        "wallpapers/nju_1.jpg"
+      ]
+    },
+    {
+      "id": "scu",
+      "name": "四川大学",
+      "motto": "海纳百川，有容乃大",
+      "description": "教育部直属重点大学，位于四川成都",
+      "established": "1896",
+      "images": [
+        "wallpapers/scu_1.jpg"
+      ]
+    },
+    {
+      "id": "bnu",
+      "name": "北京师范大学",
+      "motto": "学为人师，行为世范",
+      "description": "教育部直属重点大学，师范类院校之首，位于北京",
+      "established": "1902",
+      "images": [
+        "wallpapers/bnu_1.jpg"
+      ]
+    },
+    {
+      "id": "ecnu",
+      "name": "华东师范大学",
+      "motto": "求实创造，为人师表",
+      "description": "教育部直属重点大学，师范类顶尖院校，位于上海",
+      "established": "1951",
+      "images": [
+        "wallpapers/ecnu_1.jpg"
+      ]
+    },
+    {
+      "id": "lzu",
+      "name": "兰州大学",
+      "motto": "自强不息，独树一帜",
+      "description": "教育部直属重点大学，位于甘肃兰州",
+      "established": "1909",
+      "images": [
+        "wallpapers/lzu_1.jpg"
+      ]
+    },
+    {
+      "id": "ruc",
+      "name": "中国人民大学",
+      "motto": "实事求是",
+      "description": "教育部直属重点大学，人文社科领域顶尖院校，位于北京",
+      "established": "1937",
+      "images": [
+        "wallpapers/ruc_1.jpg"
+      ]
+    },
+    {
+      "id": "cqu",
+      "name": "重庆大学",
+      "motto": "耐劳苦，尚俭朴，勤学业，爱国家",
+      "description": "教育部直属重点大学，位于重庆",
+      "established": "1929",
+      "images": [
+        "wallpapers/cqu_1.jpg"
+      ]
     }
   ]
 }
