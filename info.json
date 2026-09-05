@@ -1,1 +1,14 @@
-
+{
+  "universities": [
+    {
+      "id": "hit",
+      "name": "哈尔滨工业大学",
+      "motto": "规格严格，功夫到家",
+      "description": "工业和信息化部直属重点大学，C9联盟成员，位于黑龙江哈尔滨",
+      "established": "1920",
+      "images": [
+        "wallpapers/hit_1.jpg"
+      ]
+    }
+  ]
+}
